@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ujian-jsx/static/css/main.5e9837dc.css",
-    "main.js": "/ujian-jsx/static/js/main.5f484efc.js",
+    "main.js": "/ujian-jsx/static/js/main.d63bc989.js",
     "static/media/Haikal.jpg": "/ujian-jsx/static/media/Haikal.2e573f4ce9b8712222ed.jpg",
     "index.html": "/ujian-jsx/index.html",
     "main.5e9837dc.css.map": "/ujian-jsx/static/css/main.5e9837dc.css.map",
-    "main.5f484efc.js.map": "/ujian-jsx/static/js/main.5f484efc.js.map"
+    "main.d63bc989.js.map": "/ujian-jsx/static/js/main.d63bc989.js.map"
   },
   "entrypoints": [
     "static/css/main.5e9837dc.css",
-    "static/js/main.5f484efc.js"
+    "static/js/main.d63bc989.js"
   ]
 }
